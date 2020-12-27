@@ -63,7 +63,7 @@ function createCard(pokemon) {
         >
             ${pokemon.name}
         </h3>
-        <div class="badge badge-warning">Height: ${pokemon.height}</div>
+        <div class="badge badge-warning">1Height: ${pokemon.height}</div>
         <div class="badge badge-danger">Weight: ${pokemon.weight}</div>
     </div>
     `;
